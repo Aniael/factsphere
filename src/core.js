@@ -1,7 +1,7 @@
 require("dotenv").config();
 require("colors");
 
-const randomboot = ["Pretend this is my logo", "This following interpretation is approved for mature audiences only!", "ATTENTION! Thanks for your attention!", "WHAT ARE YOU DOING", "hi scry fuck off"]
+const randomboot = ["Pretend this is my logo", "This following interpretation is approved for mature audiences only!", "ATTENTION! Thanks for your attention!", "WHAT ARE YOU DOING", "hi scry fuck off", "leafcore.newgrounds.com"]
 
 const randomMessage = randomboot[Math.floor(Math.random() * randomboot.length)];
 
@@ -39,8 +39,6 @@ const facts = ["The billionth digit of Pi is 9.",
 ]
 
 
-
-
 const { Client } = require('discord.js');
 const client = new Client();
 
@@ -61,3 +59,5 @@ client.on('message', (message) => {
 )
 
 client.login(process.env.TOKEN)
+
+// hi github!
