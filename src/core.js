@@ -23,8 +23,20 @@ const facts = ["The billionth digit of Pi is 9.",
 "The Mexican-American War ended in 1848 with the signing of the Treaty of Guadalupe Hidalgo.",
 "In 1879, Sandford Fleming first proposed the adoption of worldwide standardized time zones at the Royal Canadian Institute.",
 "At the end of The Seagull by Anton Chekhov, Konstantin kills himself.",
+"In Africa, every 60 seconds a minute passes.",       //not related to portal but lmao why not
 "Hot water freezes quicker than cold water.",
-"Polymerase I polypeptide A is a human gene."]
+"Polymerase I polypeptide A is a human gene.",
+//partially true facts
+"Cellular phones will not give you cancer. Only hepatitis.",
+"In Greek myth, Prometheus stole fire from the Gods and gave it to humankind. The jewelry he kept for himself.",
+"The Schrödinger's cat paradox outlines a situation in which a cat in a box must be considered, for all intents and purposes, simultaneously alive and dead. Schrödinger created this paradox as a justification for killing cats.",
+"The plural of surgeon general is surgeons general. The past tense of surgeons general is surgeonsed general",
+"Contrary to popular belief, the Eskimo does not have one hundred different words for snow. They do, however, have two hundred and thirty-four words for fudge.",
+"Diamonds are made when coal is put under intense pressure. Diamonds put under intense pressure become foam pellets, commonly used today as packing material.",
+"Halley's Comet can be viewed orbiting Earth every seventy-six years. For the other seventy-five, it retreats to the heart of the sun, where it hibernates undisturbed.",
+"The first commercial airline flight took to the air in 1914. Everyone involved screamed the entire way.",
+"Edmund Hillary, the first person to climb Mount Everest, did so accidentally while chasing a bird.",
+]
 
 
 
